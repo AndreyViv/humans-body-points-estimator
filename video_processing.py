@@ -45,7 +45,7 @@ if __name__ == '__main__':
         try:
             youtube_video_process(args.link)
         except DownloadError:
-            print(f'Can not dowload video from link: {args.link}')
+            print(f'Can not download video from link: {args.link}')
         except Exception as ex:
             print(f'Something went wrong!\n{ex}')
     else:

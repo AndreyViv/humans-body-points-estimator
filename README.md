@@ -18,7 +18,7 @@ RESULTS
 Result will save to `data/results` and will consist of video file and text file. 
 Body Points will be visualize on video file and its coordinates will be log to text file.
 
-NOTE
+NOTES
 --------------
 
-You can check the test results in `data / results` for now.
+You can check the test results in `data/results` for now.
